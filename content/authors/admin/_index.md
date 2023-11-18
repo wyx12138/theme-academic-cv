@@ -54,7 +54,7 @@ skills:
       - name: Python
         description: ''
         percent: 80
-        icon: java
+        icon: c++
         icon_pack: fab
       - name: Data Science
         description: ''
