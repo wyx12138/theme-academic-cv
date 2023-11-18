@@ -22,7 +22,7 @@ role:
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Shijiazhuang Tiedao University
-    url: [https://www.stanford.edu/](https://www.stdu.edu.cn/)
+    url: https://www.stdu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
