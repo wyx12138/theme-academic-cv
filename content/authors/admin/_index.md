@@ -6,7 +6,7 @@ title: 魏世俊
 name_pronunciation: Wei Shi Jun
 
 # Full name (for SEO)
-first_name: Wei Shi Jun
+first_name: Wei Shi 
 last_name: Wei
 
 # Status emoji
