@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 魏世俊
+title: 魏世
 
 # Name pronunciation (optional)
-name_pronunciation: Wei Shi Jun
+name_pronunciation: Wei Shi 
 
 # Full name (for SEO)
 first_name: Wei Shi 
