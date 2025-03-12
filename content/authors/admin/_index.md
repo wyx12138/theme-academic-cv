@@ -6,7 +6,7 @@ title: 魏世
 name_pronunciation: Wei Shi 
 
 # Full name (for SEO)
-first_name: Wei Shi   
+first_name: Wei Shi 1  
 last_name: Wei
 
 # Status emoji
